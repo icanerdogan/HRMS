@@ -2,22 +2,6 @@ package com.icanerdogan.HRMS.adapters.concretes;
 
 
 import com.icanerdogan.HRMS.adapters.abstracts.MernisService;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> hafta 8
-import com.icanerdogan.HRMS.entities.concretes.Candidate;
-import org.springframework.stereotype.Component;
-
-@Component
-public class MernisServiceAdapter implements MernisService {
-
-	@Override
-	public boolean checkIfRealPerson(Candidate candidate) {
-		return true;
-<<<<<<< HEAD
-=======
-=======
 import com.icanerdogan.HRMS.core.utilities.results.ErrorResult;
 import com.icanerdogan.HRMS.core.utilities.results.Result;
 import com.icanerdogan.HRMS.core.utilities.results.SuccessResult;
@@ -57,7 +41,5 @@ public class MernisServiceAdapter implements MernisService {
 		}else {
 			return false;
 		}
->>>>>>> hafta 8
->>>>>>> hafta 8
 	}
 }

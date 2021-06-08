@@ -46,25 +46,11 @@ public class CandidateManager implements CandidateService {
             return new ErrorResult("Boş Alan Bırakılmaz!");
         }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> hafta 8
-        if (!mernisServiceAdapter.checkIfRealPerson(candidate)){
-            return new ErrorResult("Kimlik Doğrulanamadı!");
-        }
-
-        return new SuccessResult("İş Arayan Eklendi!");
-<<<<<<< HEAD
-=======
-=======
         if(!mernisServiceAdapter.checkIfRealPerson(candidate)){
             return new ErrorResult("Kimlik Doğrulama İşlemi Başarısız!");
         }
 
         return new SuccessResult("Kayıt İşlemi Başarılı!");
->>>>>>> hafta 8
->>>>>>> hafta 8
     }
 
 }
