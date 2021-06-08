@@ -2,10 +2,7 @@
 
 <h2>File Directory</h2>
 <ul>
-    <li><b>Main</b></li>
-        <ul>
-            <li><a href='https://github.com/icanerdogan/HRMS/blob/master/src/main/java/com/icanerdogan/HRMS/HrmsApplication.java'> HrmsApplication.java </a></li>
-        </ul>
+    <li><b><a href='https://github.com/icanerdogan/HRMS/blob/master/src/main/java/com/icanerdogan/HRMS/HrmsApplication.java'> Main </a> </b></li>
     <li><b><a href='https://github.com/icanerdogan/HRMS/tree/master/src/main/java/com/icanerdogan/HRMS/adapters'>Adapters</a></b></li>
         <ul>
             <li><a href='https://github.com/icanerdogan/HRMS/tree/master/src/main/java/com/icanerdogan/HRMS/adapters/abstracts'>Abstract</a></li>
@@ -32,7 +29,4 @@
             <li><a href='https://github.com/icanerdogan/HRMS/tree/master/src/main/java/com/icanerdogan/HRMS/entities/dtos'>dtos</a></li>
         </ul>
     <li><b><a href='https://github.com/icanerdogan/HRMS/tree/master/src/main/java/com/icanerdogan/HRMS/api'>API / Controllers</a></b></li>
-        <ul>
-            <li><a href='https://github.com/icanerdogan/HRMS/tree/master/src/main/java/com/icanerdogan/HRMS/api/CV'> CV </a></li>
-        </ul>
 <ul>
